@@ -1,5 +1,5 @@
 ### Plantar Pressure Classification using CNN
-#### 3 classes : Flat foot, over-arch, Normal 
+#### 3 classes : Flat foot, Over-Arch, Normal 
 
 <img src=https://github.com/BIPA-AI-2025/Brain-Tumor-Prediction/blob/main/Plantar_3_Class/Screen_Images/output.png width="600">
 
